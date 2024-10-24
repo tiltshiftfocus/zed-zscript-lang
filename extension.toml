@@ -3,8 +3,8 @@ name = "ZScript"
 version = "0.1.0"
 schema_version = 1
 description = "ZScript language support."
-repository = ""
-authors = []
+repository = "https://github.com/tiltshiftfocus/zed-zscript-lang"
+authors = ["jerrioboi"]
 themes = []
 languages = ["languages/zscript"]
 
