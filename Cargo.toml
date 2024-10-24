@@ -1,0 +1,11 @@
+[package]
+name = "zed_zscript"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+path = "src/zscript.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+zed_extension_api = "0.1.0"
