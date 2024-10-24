@@ -1,0 +1,6 @@
+name = "ZScript"
+grammar = "zscript"
+path_suffixes = ["zsc", "zs"]
+line_comments = ["-- "]
+brackets = [
+]

@@ -1,0 +1,21 @@
+id = "zscript"
+name = "ZScript"
+version = "0.1.0"
+schema_version = 1
+description = "ZScript language support."
+repository = ""
+authors = []
+themes = []
+languages = ["languages/zscript"]
+
+[lib]
+
+[grammars.zscript]
+repository = "https://github.com/dastrukar/tree-sitter-zscript"
+rev = "bd67a5d831178dc41dcfb0f3d61aa2756fc23046"
+
+[language_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
